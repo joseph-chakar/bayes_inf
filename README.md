@@ -1,4 +1,4 @@
-# bayes_inf
+# Bayesian Inference
 
 This is a more basic but way faster implementation of the MIT PV-lab's Bayesian inference code: https://github.com/PV-Lab/bayesim
 
