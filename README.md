@@ -6,7 +6,7 @@ $$P(A|B) = \frac{P(A,B)}{P(B)} = \frac{P(A) P(B|A)}{P(B)}$$
 
 It describes the probability of event A occurring given that event B is true. $P(A|B)$ is also called the posterior probability _(i.e. our updated knowledge of A, after observing B)_, and it is equal to the product of the prior (or marginal) probability $P(A)$ _(i.e. our "prior" knowledge of A, before knowing anything about B)_ and the likelihood $P(B|A)$ _(i.e. how likely A is, based only on the evidence provided by B)_, divided by the marginal probability $P(B)$ _(i.e. the chances of B happening)_.
 
-The coin tossing example given Bayes' Group is a nice way to understand this concept. We have a coin that we think is fair (prior), and we want to know our chances of getting a head (posterior) after having tested the coin (likelihood). Say we toss the coin twice and land on head each time. The evidence we now have suggests that we are more likely to get a head than a tail, and allows us to determine the posterior. 
+The coin tossing example given by Bayes' Group is a nice way to understand this concept. We have a coin that we think is fair (prior), and we want to know our chances of getting a head (posterior) after having tested the coin (likelihood). Say we toss the coin twice and land on head each time. The evidence we now have suggests that we are more likely to get a head than a tail, and allows us to determine the posterior. 
 
 <p align="center">
   <img src="https://vitalflux.com/wp-content/uploads/2020/09/Screenshot-2020-09-13-at-9.29.35-AM-300x202.png">
