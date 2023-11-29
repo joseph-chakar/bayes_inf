@@ -22,9 +22,9 @@ Here, the prior $P(&theta;)$ reflects our pre-existing knowledge of the paramete
 
 In the `ideal_diode_example.ipynb` notebook, I show my implementation of Bayesian parameter inference and validate the results using this benchmark code from MIT’s PV-lab: https://github.com/PV-Lab/bayesim/blob/master/examples/diode/ideal_diode.ipynb
 
-You can also check out my latest pre-print (article still under review) included in this repo to see how we can use Bayesian inference to perform advanced remote PV degradation analysis: https://dx.doi.org/10.2139/ssrn.4593263
+Some features are still missing from this work in progress, but I just wanted to demonstrate a draft version that can yield almost the exact same results of this popular version in just a fraction of the time.
 
-Some features are still missing from this work in progress, but I just wanted to demonstrate a draft version that can yield (almost) the exact same results of this popular version in just a fraction of the time.
+You can also check out my latest pre-print (article still under review) included in this repo to see how we can use Bayesian inference to perform advanced remote PV degradation analysis: https://dx.doi.org/10.2139/ssrn.4593263
 
 **References:**
 
