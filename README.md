@@ -38,7 +38,7 @@ It describes the probability of event A occurring given that event B is true. $P
 
 The coin toss example given by Bayes' Group is an excellent way to visualize this concept. Say we have a coin and want to know the probability of getting Heads. This can’t be done with deterministic approaches that return a single “best-fit” value, because multiple outcomes are plausible.
 
-Based on common sense, if the coin is fair we have a 50/50 chance of getting Heads or Tails (prior distribution). If we toss the coin twice and land on Heads each time, the evidence (likelihood) we have so far suggests that we are more likely to get Heads than Tails (posterior distribution). 
+Common sense tells us that if the coin is fair, we have a 50/50 chance of getting Heads or Tails (prior distribution). If we toss the coin twice and land on Heads each time, the evidence (likelihood) we have so far suggests that we are more likely to get Heads than Tails (posterior distribution). 
 
 <p align="center">
   <img src="https://vitalflux.com/wp-content/uploads/2020/09/Screenshot-2020-09-13-at-9.29.35-AM-300x202.png">
