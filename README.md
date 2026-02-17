@@ -1,5 +1,3 @@
-# What's included in this repo
-
 This repo introduces the Bayesian framework from a practical, hands-on perspective. Instead of treating parameters as fixed values, the goal is to view them as variables described by probability distributions. In PV research, this shift is essential: many problems are inherently multi-solution, and classical deterministic approaches that search for a single "best fit" can be misleading. A more in-depth discussion of these ideas and their implications for PV research is available in my PhD dissertation (https://theses.fr/2024IPPAX120).
 
 ### 📘 Introductory material
