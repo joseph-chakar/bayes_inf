@@ -1,8 +1,8 @@
-This repo introduces the Bayesian framework from a practical, hands-on perspective. Instead of treating parameters as fixed values, the goal is to view them as variables described by probability distributions. In PV research, this shift is essential: many problems are inherently multi-solution, and classical deterministic approaches that search for a single "best fit" can be misleading. A more in-depth discussion of these ideas and their implications for PV research is available in my PhD dissertation (https://theses.fr/2024IPPAX120).
+This repo introduces the probabilistic Bayesian framework from a practical, hands-on perspective. Instead of treating parameters as fixed values, the goal is to view them as variables described by probability distributions. In PV research, this shift is essential: many problems are inherently multi-solution, and classical deterministic approaches that search for a single "best fit" can be misleading. A more in-depth discussion of these ideas and their implications for PV research is available in my PhD dissertation (https://theses.fr/2024IPPAX120).
 
 ### 📘 Introductory material
 
-* A conceptual introduction to the probabilistic Bayesian framework (see below).
+* A conceptual introduction to the Bayesian framework (see below).
 
 ### ⚙️ Example notebook
 
@@ -24,7 +24,7 @@ Published studies where I applied more advanced versions of this code - with som
 
 * **Performance Analysis of PV Systems** (https://doi.org/10.1016/j.solener.2024.112595)
 
-  Bayesian inference + circuit modeling to obtain confidence intervals for degradation rates estimated from information-limited production data, with prediction uncertainty quantified for repowering applications and identified current losses accurately traced to their sources.
+  Bayesian inference + circuit modeling to obtain confidence intervals for degradation rates estimated from information-limited power production data, where current losses were correctly identified and their sources traced through experimental testing..
 
 # Bayesian Inference
 
