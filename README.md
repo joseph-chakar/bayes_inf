@@ -24,7 +24,7 @@ Published studies where I applied more advanced open-access versions of this cod
 
 * **Performance Analysis of PV Systems** (https://doi.org/10.1016/j.solener.2024.112595)
 
-  Bayesian inference + circuit modeling to obtain confidence intervals for degradation rates estimated from information-limited power production data, where current losses were correctly identified and their sources traced through experimental testing.
+  Bayesian inference + circuit modeling builds confidence intervals for degradation rates estimated from information-limited power production data, where current losses were correctly identified and their sources traced through experimental testing.
 
 # Bayesian Inference
 
