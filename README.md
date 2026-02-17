@@ -12,7 +12,7 @@ This repo introduces the probabilistic Bayesian framework from a practical, hand
 
 ### 📄 Related publications and applications
 
-Published studies where I applied more advanced versions of this code - with some predictions validated experimentally - in collaboration with national and international PV research groups and companies.
+Published studies where I applied more advanced open-access versions of this code - with some predictions validated experimentally - in collaboration with national and international PV research groups and companies.
 
 * **Material vs. Interface Effects on Performance in Perovskite Solar Cells** (https://doi.org/10.1021/acsenergylett.5c02406)
 
@@ -24,7 +24,7 @@ Published studies where I applied more advanced versions of this code - with som
 
 * **Performance Analysis of PV Systems** (https://doi.org/10.1016/j.solener.2024.112595)
 
-  Bayesian inference + circuit modeling to obtain confidence intervals for degradation rates estimated from information-limited power production data, where current losses were correctly identified and their sources traced through experimental testing..
+  Bayesian inference + circuit modeling to obtain confidence intervals for degradation rates estimated from information-limited power production data, where current losses were correctly identified and their sources traced through experimental testing.
 
 # Bayesian Inference
 
