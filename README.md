@@ -8,7 +8,7 @@ This repo introduces the probabilistic Bayesian framework from a hands-on perspe
 
 * `ideal_diode_example.ipynb`
 
-  Benchmarks my very first Bayesian parameter estimation implementation against the pioneering code from MIT's PV-Lab, demonstrating how optimized data structures can cut computing time from hours to minutes/seconds.
+  Benchmarks my very first Bayesian parameter estimation implementation against the pioneering code from MIT's PV-Lab, demonstrating how optimized data structures can cut computing time from hours to minutes/seconds. A more advanced version with better visuals is included below.
 
 ### 📄 Related publications and applications
 
