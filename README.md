@@ -18,7 +18,7 @@ Published studies where I applied more advanced open-access versions of this cod
 
    Bayesian inference + drift-diffusion modeling reveals that the passivation layer at the interface between the perovskite and electron transport layer boosts solar cell efficiency mostly by reducing defects in the perovskite bulk, as evidenced by ToF-SIMS measurements.
 
-* **Indoor vs. Outdoor Aging of Novel Solar Cell Technologies** (https://doi.org/10.1002/solr.202500716)
+* **Indoor vs. Outdoor Degradation of Novel Solar Cell Technologies** (https://doi.org/10.1002/solr.202500716)
 
   Bayesian inference + drift-diffusion modeling provides the first quantitative link between accelerated indoor testing and outdoor aging in perovskite solar cells using standard current–voltage curves, showing shared degradation mechanisms and new ones activated by elevated stress levels.
 
